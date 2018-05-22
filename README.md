@@ -1,4 +1,4 @@
-## Welcome to Luvdid App
+## Welcome to Luvdid
 
 - Luvdid has thoroughly scanned the country looking for the best care out there! Use our enhanced filtering options to narrow down your search to fit your particular need.
 
